@@ -1,4 +1,4 @@
-*.xworkspace
+*.xcworkspace
 Pods
 Podfile.lock
 
