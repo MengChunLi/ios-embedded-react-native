@@ -1,6 +1,6 @@
-*.xcworkspace
 Pods
 Podfile.lock
+embedded-react-native.xcworkspace
 
 # OSX
 #
@@ -24,4 +24,3 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
-project.xcworkspace
